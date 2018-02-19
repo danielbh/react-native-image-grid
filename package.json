@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+ssh://git@github.com/christopherabouabdo/react-native-photo-grid.git"
   },
+  "dependencies": {
+    "react-native-infinite-scroll-view": "^0.4.3"
+  }
   "keywords": [
     "react-native",
     "photo",
