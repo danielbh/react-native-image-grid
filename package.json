@@ -1,5 +1,5 @@
 {
-  "name": "react-native-photo-grid",
+  "name": "react-native-infinite-photo-grid",
   "version": "0.0.1",
   "description": "React Native component that handles the complexities of building a grid of photos with a flexible number of photos per row.",
   "main": "PhotoGrid.js",
