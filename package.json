@@ -12,7 +12,7 @@
   },
   "dependencies": {
     "react-native-infinite-scroll-view": "^0.4.3"
-  }
+  },
   "keywords": [
     "react-native",
     "photo",
